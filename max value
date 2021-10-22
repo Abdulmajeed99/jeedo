@@ -1,0 +1,8 @@
+function largestValue(){
+	let array = [3, 55, -10, 19, -27, 6, -2, 0, 11, -4];
+	// code here
+  let max = Math.max.apply(null, arr);{
+    return max;
+    }
+    
+}
